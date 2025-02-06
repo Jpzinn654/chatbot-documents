@@ -1,7 +1,11 @@
 # Chatbot with RAG (Retrieval-Augmented Generation)
 
 ![Demo](https://img.shields.io/badge/Demo-Video-blue)  
-[Watch the Demo Video](#demo-video)  
+
+
+https://github.com/user-attachments/assets/a9e619be-f96d-45ba-a81b-957f0e66f51d
+
+
 
 ## 📝 Description  
 This project is a **Chatbot with RAG (Retrieval-Augmented Generation)** that uses the **FAISS RAG method** and **LangChain** to provide intelligent and context-aware responses. The chatbot is designed to:  
